@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>This page is about Star Wars</title>
+
+<style>
+.box{width:950px;}
+.box1{font-family: "Comic Sans MS"} 
+.box1{margin:22px; padding: 4px; border: 0px solid black;border-radius: 0px 25px; width:900px}
+.box1 {background-color: lightblue;}
+.box1{text-align: center;}
+.box2{width:900px;}
+.box2{text-align: center;}
+.box2 {margin:22px; padding: 4px; border: 0px solid black;border-radius: 0px 25px; width:900px}
+.box2{font-family: "Comic Sans MS"} 
+.box3{text-align: center;}
+.box4{text-align: center;}
+.box4{font-family: "Comic Sans MS"} 
+.box5{text-align: center;overflow:hidden; margin:0 auto}
+.box5{width:770px;}
+.box6{font-family: "Comic Sans MS"} 
+.box6{margin:22px; padding: 4px; border: 0px solid black;border-radius: 0px 25px; width:900px}
+.box6 {background-color: lightblue;}
+.box6{text-align: center;}
+</style>
+
+</head>
+<body>
+<div class="box">
+<div class="box1"><h2><strong>Question of today</h2><p>Why are Stormtroopers no longer left handed?</p></strong></div>
+<div class="box2"><p>Have you seen the new Star Wars film yet? We have, and we noticed one very interesting fact <p> - the Stormtroopers are no longer left-handed!</p></p>
+  <p>Take a look at the Stormtroopers in the most recent film</p></div>
+<div class="box3"><img src="http://www.anythinglefthanded.co.uk/wp-content/uploads/first-order.jpg"/></div>
+<div class="box4"><p>...and the movie from 1977</p></div>
+<div class="box5"><img src="http://www.anythinglefthanded.co.uk/wp-content/uploads/storm1-alt-1024x492.jpg"/></div>
+<div class="box6"><h2><strong>Curious?</h2><p><a href="http://www.anythinglefthanded.co.uk/why-are-stormtroopers-no-longer-left-handed.html#comments">Click here to get an answer</a></p></p></strong></div>
+</div>
+
+</body>
+</html>
